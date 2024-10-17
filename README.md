@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Kevin Boy
 
-Soy un apasionado de la **Inteligencia Artificial (IA)**, **Machine Learning (ML)** y **Data Science (DS)** con un enfoque en desarrollar soluciones innovadoras para la transformación digital de diferentes industrias. Mi experiencia y formación me han permitido especializarme en métodos cuantitativos y análisis de datos para resolver problemas complejos y generar impacto tangible.
+Soy un apasionado de la **Inteligencia Artificial (IA)**, **Machine Learning (ML)**, **Data Science (DS)** y **Desarrollo Web Backend** con un enfoque en implementar soluciones innovadoras para la transformación digital de diferentes industrias. Mi experiencia y formación me han permitido especializarme en métodos cuantitativos y análisis de datos para resolver problemas complejos y generar impacto tangible.
 
 ---
 
@@ -8,7 +8,7 @@ Soy un apasionado de la **Inteligencia Artificial (IA)**, **Machine Learning (ML
 
 - 🎓 Graduado en **Ciencia y Tecnología de los Alimentos**.
 - 🤖 Actualmente profundizando en **Inteligencia Artificial**, **Machine Learning**, **Data Science** y **Backend Development**
-- 💡 Apasionado por la **innovación tecnológica** y su aplicabilidad en la transformación de diversas industrias.
+- 💡 Apasionado por la **innovación tecnológica** y su aplicabilidad en la transformación digital de diversas industrias.
 - 🛠️ Desarrollando habilidades en **backend development**.
 - 🎯 Buscando continuamente nuevos desafíos y proyectos que conecten tecnología, ciencia y la industria.
 
@@ -19,6 +19,7 @@ Soy un apasionado de la **Inteligencia Artificial (IA)**, **Machine Learning (ML
 - **Lenguajes de Programación:**
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   
 - **Desarrollo Web y Backend:**
   - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
