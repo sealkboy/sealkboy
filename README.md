@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy Kevin Boy
 
 Soy un apasionado de la **Inteligencia Artificial (IA)**, **Machine Learning (ML)** y **Data Science (DS)** con un enfoque en desarrollar soluciones innovadoras para la transformación digital de diferentes industrias. Mi experiencia y formación me han permitido especializarme en métodos cuantitativos y análisis de datos para resolver problemas complejos y generar impacto tangible.
 
