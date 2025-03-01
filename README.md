@@ -6,6 +6,7 @@ Graduado en Ciencia y Tecnología de los Alimentos, actualmente cursando un más
   - Lenguajes: Java, Python, SQL
   - Bases de datos: MongoDB, MySQL
   - Frameworks: Spring Boot
+  - IDEs: Visual Studio Code, Jupyter Notebook, Google Colab, PyCharm
   - Testing: JUnit, Postman
   - Librerías: TensorFlow, Pandas, Scikit-learn, seaborn
   - Cloud: AWS (Redshift, Athena, Glue, Quicksight)
